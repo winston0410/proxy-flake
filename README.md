@@ -1,6 +1,6 @@
 # `proxy-flake`
 
-This repository contains proxy flake I use for [synchronizing inputs across multiple Nix Flakes](https://hugosum.com/blog/syncronizing-inputs-across-flakes). Feel free to fork this repository and create your own proxy flake.
+This repository contains proxy flake I use for <a href="https://hugosum.com/blog/syncronizing-inputs-across-flakes" target="_blank">synchronizing inputs across multiple Nix Flakes</a>. Feel free to fork this repository and create your own proxy flake.
 
 ## Why do you need a proxy flake?
 
