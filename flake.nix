@@ -12,6 +12,9 @@
 
     nur.url = "github:nix-community/NUR/master";
     nur.inputs.nixpkgs.follows = "nixpkgs";
+
+    sops-nix.url = "github:Mic92/sops-nix";
+    sops-nix.inputs.nixpkgs.follows = "nixpkgs";
   };
 
   outputs = { self, nixpkgs }:
